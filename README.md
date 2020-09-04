@@ -1,5 +1,4 @@
-#### Hi there, I'm Shevan Fernando 👋                                                       
-![counter](https://[YourEndpoint].m.pipedream.net)
+#### Hi there, I'm Shevan Fernando 👋                        
 
 
 I'm a Student, Undergraduate!🤣
@@ -14,8 +13,6 @@ I'm a Student, Undergraduate!🤣
 - ⚡ Fun fact: Big fan of the 👽 emoji
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
 
 ### Languages
 <div>
