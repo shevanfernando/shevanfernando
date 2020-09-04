@@ -3,7 +3,6 @@
 
 I'm currently Student!🤣
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on my degree 😉
 - 🌱 I’m currently learning Python,AngularJS and Bootstrap
 - 👯 I’m looking to collaborate with other persons
