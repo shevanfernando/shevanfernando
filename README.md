@@ -15,7 +15,7 @@ I'm a Student, Undergraduate!🤣
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
 ### Languages
-
+<img alt="C Sharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
 ### Tools:
 [<code>
 <img alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
