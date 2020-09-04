@@ -19,7 +19,7 @@ I'm a Student, Undergraduate!🤣
 ### Tools:
 [<code>
 <img alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-</code>]
+</code>](https://code.visualstudio.com/)
 [<code>
 <img alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 </code>](https://code.visualstudio.com/)
