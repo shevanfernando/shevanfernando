@@ -12,7 +12,7 @@ I'm a Student, Undergraduate!🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Big fan of the 👽 emoji
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+![Github stats](https://github-readme-stats.vercel.app/api?username=shevanthiranjafernando)
 
 ### Languages
 <div>
