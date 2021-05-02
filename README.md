@@ -12,6 +12,15 @@ I'm a Student, Undergraduate!🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Big fan of the 👽 emoji
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+  <td width="50%">
+
 ### Languages
 <div>
 <img alt="C Sharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
