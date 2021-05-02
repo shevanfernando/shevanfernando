@@ -12,8 +12,6 @@ I'm a Student, Undergraduate!🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Big fan of the 👽 emoji
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shevanfernando)
-
 ### Languages
 <div>
 <img alt="C Sharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
@@ -35,3 +33,14 @@ I'm a Student, Undergraduate!🤣
 <img alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img alt="Atom" width="26px" src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
 </div>
+
+### :zap: GitHub Stats
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=shevanfernando&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=shevanfernando&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
