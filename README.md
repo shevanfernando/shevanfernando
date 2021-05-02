@@ -20,7 +20,8 @@ I'm a Student, Undergraduate!🤣
 
   </td>
   <td width="50%">
-
+</tr>
+<table>
 ### Languages
 <div>
 <img alt="C Sharp" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
