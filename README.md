@@ -12,7 +12,7 @@ I'm a Student, Undergraduate!🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Big fan of the 👽 emoji
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWTSfIBZEEbY0?si=3f750927df0745e9)
 
 ### Languages
 <div>
