@@ -34,11 +34,8 @@ Based in Sri Lanka. Open to international opportunities, including relocation to
 ---
 
 ### ⚡ GitHub Stats
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevanfernando" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=shevanfernando"/></td>
-    </tr>   
-  </table>
-</center>
+<p align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevanfernando" />
+  &nbsp;&nbsp;
+  <img height="195" src="https://streak-stats.demolab.com?user=shevanfernando" />
+</p>
